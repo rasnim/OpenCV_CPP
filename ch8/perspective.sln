@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "perspective", "perspective\perspective.vcxproj", "{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Debug|x64.ActiveCfg = Debug|x64
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Debug|x64.Build.0 = Debug|x64
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Debug|x86.Build.0 = Debug|Win32
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Release|x64.ActiveCfg = Release|x64
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Release|x64.Build.0 = Release|x64
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Release|x86.ActiveCfg = Release|Win32
+		{771FDA6C-B1B0-49CC-94DD-E72DBD7A62BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A37BCE-309F-40FB-9EDD-3779C6620BFB}
+	EndGlobalSection
+EndGlobal
